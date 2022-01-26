@@ -1,0 +1,2 @@
+# FRCN-miner
+FerdeRCoiN miner
